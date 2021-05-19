@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/raphael/Desktop/Ynov/cour C/C/TP-contact-creat/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+struct.h
+/Users/raphael/Desktop/Ynov/cour C/C/TP-contact-creat/struct.h
+
+/Users/raphael/Desktop/Ynov/cour C/C/TP-contact-creat/struct.h
+
