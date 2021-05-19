@@ -27,5 +27,5 @@ cc --- mcc(main.c)
 rc --- mrc(main.c)
 
 mcc -- create --> d((data.txt))
-d -- read --> mrc 
+mrc -- read --> d
 ```
